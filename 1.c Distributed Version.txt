@@ -1,0 +1,6 @@
+The first and easiest thing that comes up to my mind is
+to use a DataBase so that we can handle multiple requests.
+
+The second option is to use threads(but I'm not very familiar with threads) - we are
+going to have one instance of the Storage and multiple threads that will make requests
+to it.

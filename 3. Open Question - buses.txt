@@ -1,0 +1,17 @@
+1. First the easiest way - check in the Internet :D
+
+2. Second option
+See how many neighborhoods are there in plovdiv. There are 20 (https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB%D0%B8_%D0%BD%D0%B0_%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2)
+Let's say  by the way of logic that every neighborhood should be visited average by 3 kind(different lines) of buses.
+Let's say that there are at least 6 buses for every kind of line(1,222,26...).
+So the math is = 20*3*6 = 360 approximately
+
+3.Third option
+See how many lines are there in Plovdiv = 29 (https://www.plovdiv.bg/item/transport/%D0%BC%D0%B0%D1%81%D0%BE%D0%B2-%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D1%80%D0%B0%D0%B7/)
+
+I know that LINE 1 - 
+needs 98 minutes for one full circle and has - 10 buses, so 9.8 min approximately between buses, lets round it up to 10 (https://www.plovdiv.bg/wp-content/uploads/2021/06/%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F1.pdf)
+So i can see for every line the minutes that it needs to make a full circle and calculate the full circle/10
+and see for every line the approximately number of buses.
+So I get the number of buses for every line and then multiply it by 29
+The math will take some time... :D
